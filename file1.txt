@@ -1,2 +1,2 @@
-This is file 1git 
+This is file1 git 
 Add another file to this folder and commit it
